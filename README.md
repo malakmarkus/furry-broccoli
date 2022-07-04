@@ -54,4 +54,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ---------
 ## Application Deployment
-https://salty-savannah-61183.herokuapp.com/login
+https://salty-savannah-61183.herokuapp.com/
